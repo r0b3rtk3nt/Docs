@@ -1,0 +1,17 @@
+## Installing NPM on Mac ##
+	npm -v
+	brew -v
+	brew install node
+  
+  
+### Turn Sublime Text into An Awesome IDE for Laravel / PHP with LSP and Intelephense ###
+## Installing Intelephense ##
+	npm -g i intelephense
+	
+	
+### How to Run Laravel Artisan Commands in Sublime Text ###
+## Install Laravel Artisan Package ##
+	Command Palette --> Install Package Control
+	Go to Preference->Package Control and type ‘install’.
+	Type ‘Laravel 5 Artisan’ 
+	
